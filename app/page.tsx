@@ -11,6 +11,8 @@ import { Navigation } from "@/components/navigation"
 import { EducationSection } from "@/components/education-section"
 import { ContributionsSection } from "@/components/contributions-section"
 import { BuiltWithSection } from "@/components/built-with-section"
+import { VolunteeringSection } from "@/components/volunteering-section"
+import { AwardsSection } from "@/components/awards-section"
 
 export default function PortfolioPage() {
   return (
@@ -40,6 +42,16 @@ export default function PortfolioPage() {
 
       <section id="education" className="container mx-auto px-4 sm:px-6 py-12 sm:py-20 max-w-[1400px]">
         <EducationSection education={portfolioData.education} />
+      </section>
+
+      {/* Volunteering Section */}
+      <section className="container mx-auto px-4 sm:px-6 py-12 sm:py-20 max-w-[1400px]">
+        <VolunteeringSection volunteering={portfolioData.volunteering} />
+      </section>
+
+      {/* Awards Section */}
+      <section className="container mx-auto px-4 sm:px-6 py-12 sm:py-20 max-w-[1400px]">
+        <AwardsSection awards={portfolioData.awards} />
       </section>
 
       {/* Bug Reports Section */}

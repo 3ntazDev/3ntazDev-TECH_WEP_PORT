@@ -81,14 +81,14 @@
       "image": "/images/p1.png",
       "link": "https://fabmatch.org",
       "tech": ["React", "Node.js", "MongoDB"]
-    }, 
+    },
     {
       "name": "📝 Todo List API",
       "description": "Todo List API هو مشروع تعليمي شامل يوفر بيئة مثالية لتعلم وممارسة تطوير واختبار RESTful APIs. هذا المشروع مصمم",
       "image": "/images/API.webp",
       "link": "https://github.com/3ntazDev/Api---To-Do-List",
       "tech": ["React", "Node.js", "MongoDB"]
-    }, 
+    },
     {
       "name": "WashyWay",
       "description": "Online platform for car wash scheduling with real-time availability and management",
@@ -159,14 +159,49 @@
       "link": "https://github.com/3ntazDev"
     },
     {
-  "title": "Corrected Data Preprocessing for New Predictions",
-  "repo": "ML Demo Project",
-  "description": "Fixed preprocessing errors by switching to DataFrame, aligning column names with training data, and updating target variable for correct predictions",
-  "status": "Open",
-  "date": "2024",
-  "link": "https://github.com/3ntazDev"
-}
-
+      "title": "Corrected Data Preprocessing for New Predictions",
+      "repo": "ML Demo Project",
+      "description": "Fixed preprocessing errors by switching to DataFrame, aligning column names with training data, and updating target variable for correct predictions",
+      "status": "Open",
+      "date": "2024",
+      "link": "https://github.com/3ntazDev"
+    }
+  ],
+  "volunteering": [
+    {
+      "organization": "Digital Innovation & Entrepreneurship Club",
+      "position": "Software Developer",
+      "period": "Jan 2024 – Jul 2025",
+      "description": "I contributed to various technical projects, including developing a comprehensive website for the club that displays its achievements, upcoming and past events, the organizational structure of the board, and all related news and updates for members and visitors.",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    },
+    {
+      "organization": "Digital Innovation & Entrepreneurship Club",
+      "position": "Design Specialist (UI/UX)",
+      "period": "Jan 2023 – Jan 2024",
+      "description": "I designed all the user interfaces for the projects, as well as layouts and designs for exhibitions, ensuring a cohesive and visually appealing experience.",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    },
+    {
+      "organization": "Google Developer Student Club (PSAU)",
+      "position": "Project Coordinator",
+      "period": "Nov 2024 – Jul 2025",
+      "description": "I organized technical events and attracted experienced professionals, aligning activities with industry needs to enrich students' knowledge and enhance the overall technical environment.",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+    }
+  ],
+  "awards": [
+    {
+      "title": "CODE IN - First Place",
+      "titleAr": "CODE IN - المركز الأول",
+      "issuer": "Prince Sattam bin Abdulaziz University (PSAU)",
+      "issuerAr": "جامعة الأمير سطام بن عبدالعزيز",
+      "date": "2025",
+      "description": "Winning the CODE IN software competition in first place",
+      "descriptionAr": "الفوز بالمركز الأول في مسابقة CODE IN البرمجية",
+      "achievement": "Programmer - Ability to solve problems",
+      "logo": "/images/d8-b4-d8-b9-d8-a7-d8-b1-d8-ac-d8-a7-d9-85-d8-b9-d8-a9-d8-a7-d9-84-d8-a3-d9-85-d9-8a-d8-b1-d8-b3-d8-b7-d8-a7-d9-85-d8-a8-d9-86-d8-b9-d8-a8-d8-af-d8-a7-d9-84-d8-b9-d8-b2-d9-8a-d8-b2.png"
+    }
   ],
   "skills": {
     "qaSkills": [
@@ -315,20 +350,6 @@
       "hours": "19 hrs",
       "logo": "/placeholder.svg?height=60&width=60",
       "category": "Software Engineering"
-    }
-  ],
-  "volunteering": [
-    {
-      "organization": "Google Developer Student Club (PSAU)",
-      "position": "Project Manager",
-      "period": "Feb 2024 – Aug 2025",
-      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
-    },
-    {
-      "organization": "Software Engineering Club (PSAU)",
-      "position": "UI/UX Designer",
-      "period": "Apr 2022 – Mar 2024",
-      "logo": "/placeholder.svg?height=60&width=60"
     }
   ],
   "languages": [{ "name": "Arabic", "level": "Native" }, { "name": "English", "level": "Professional" }]
