@@ -78,36 +78,43 @@
     {
       "name": "FABMATCH",
       "description": "A platform connecting users with 3D printing service providers for seamless ordering and delivery",
-      "image": "/images/fabmatch-banner.png",
+      "image": "/images/p1.png",
       "link": "https://fabmatch.org",
       "tech": ["React", "Node.js", "MongoDB"]
-    },
+    }, 
+    {
+      "name": "📝 Todo List API",
+      "description": "Todo List API هو مشروع تعليمي شامل يوفر بيئة مثالية لتعلم وممارسة تطوير واختبار RESTful APIs. هذا المشروع مصمم",
+      "image": "/images/API.webp",
+      "link": "https://github.com/3ntazDev/Api---To-Do-List",
+      "tech": ["React", "Node.js", "MongoDB"]
+    }, 
     {
       "name": "WashyWay",
       "description": "Online platform for car wash scheduling with real-time availability and management",
-      "image": "/placeholder.svg?height=300&width=400",
+      "image": "/images/WashyWay.png",
       "link": "https://washy-way.vercel.app",
       "tech": ["Next.js", "Supabase", "Tailwind CSS"]
     },
     {
       "name": "AgentAi",
       "description": "A full AI system simplifying financial claims, deployed and production-ready",
-      "image": "/placeholder.svg?height=300&width=400",
+      "image": "/images/agent-ai-logo-png_seeklogo-547269.png",
       "link": "https://agent-ap78cboz9-3ntazdevs-projects.vercel.app",
       "tech": ["AI SDK", "Next.js", "OpenAI"]
     },
     {
       "name": "JavaScript Learning Notes",
       "description": "A full collection of JS notes, code snippets, best practices, and exercises",
-      "image": "/placeholder.svg?height=300&width=400",
+      "image": "/images/1698604163003.png",
       "link": "https://github.com/3ntazDev/JavaScript-Notes",
       "tech": ["JavaScript", "Documentation"]
     },
     {
       "name": "GPA Calculator",
       "description": "A progressive web app for calculating semester and cumulative GPA (supports 5-point system)",
-      "image": "/placeholder.svg?height=300&width=400",
-      "link": "#",
+      "image": "/images/لقطة شاشة 2025-12-10 115929.png",
+      "link": "https://gradenow.netlify.app/",
       "tech": ["HTML", "CSS", "JavaScript", "PWA"]
     }
   ],
@@ -150,7 +157,16 @@
       "status": "Merged",
       "date": "2024",
       "link": "https://github.com/3ntazDev"
-    }
+    },
+    {
+  "title": "Corrected Data Preprocessing for New Predictions",
+  "repo": "ML Demo Project",
+  "description": "Fixed preprocessing errors by switching to DataFrame, aligning column names with training data, and updating target variable for correct predictions",
+  "status": "Open",
+  "date": "2024",
+  "link": "https://github.com/3ntazDev"
+}
+
   ],
   "skills": {
     "qaSkills": [
