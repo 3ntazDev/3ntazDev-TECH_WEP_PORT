@@ -1,0 +1,249 @@
+{
+  "personalInfo": {
+    "fullName": "Fahad Alghamdi",
+    "nameAr": "فهد الغامدي",
+    "title": "SOFTWARE QA ENGINEER",
+    "tagline": "Full-Stack Quality Ninja crafting bulletproof software",
+    "description": "Detail-oriented Software Engineering graduate with strong hands-on experience in Quality Assurance and Business Analysis. Skilled in functional testing, regression testing, UAT, test case design, bug reporting, and requirements validation.",
+    "location": "Riyadh, Saudi Arabia",
+    "email": "contact@fahad.dev",
+    "profileImage": "/placeholder.svg?height=400&width=400"
+  },
+  "stats": {
+    "projects": 6,
+    "certifications": 6,
+    "experience": 2
+  },
+  "experience": [
+    {
+      "company": "General Organization for Military Industries (MIC)",
+      "location": "Riyadh, Saudi Arabia",
+      "position": "Quality Assurance & Business Analysis Trainee",
+      "period": "Jun 2025 – Aug 2025",
+      "responsibilities": [
+        "Led software testing and UAT execution, ensuring full compliance with technical requirements",
+        "Created and executed comprehensive test scenarios to validate system functionality",
+        "Supported requirement clarification through direct collaboration with stakeholders and developers",
+        "Ensured business–technical alignment throughout the development lifecycle"
+      ]
+    },
+    {
+      "company": "HIBRACoding",
+      "location": "Private Work",
+      "position": "Business Analyst & Software Quality Assurance",
+      "period": "Jan 2024 – Sep 2024",
+      "responsibilities": [
+        "Collected and analyzed requirements for projects like Aqyam and Bousla",
+        "Conducted stakeholder mapping to align project goals with business needs",
+        "Contributed to quality control through requirement validation, accuracy checks, and gap detection"
+      ]
+    }
+  ],
+  "education": {
+    "university": "Prince Sattam bin Abdulaziz University (PSAU)",
+    "degree": "Bachelor of Software Engineering",
+    "period": "Aug 2022 – Aug 2025",
+    "location": "Saudi Arabia"
+  },
+  "projects": [
+    {
+      "name": "FABMATCH",
+      "description": "A platform connecting users with 3D printing service providers for seamless ordering and delivery",
+      "url": "https://fabmatch.org",
+      "status": "Live",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "name": "WashyWay",
+      "description": "Online platform for car wash scheduling with real-time availability and management",
+      "url": "https://washy-way.vercel.app",
+      "status": "Live",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "name": "AgentAi",
+      "description": "A full AI system simplifying financial claims, deployed and production-ready",
+      "url": "https://agent-ap78cboz9-3ntazdevs-projects.vercel.app",
+      "status": "Live",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "name": "JavaScript Learning Notes",
+      "description": "A full collection of JS notes, code snippets, best practices, and exercises",
+      "url": "https://github.com/3ntazDev/JavaScript-Notes",
+      "status": "Open Source",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "name": "GPA Calculator",
+      "description": "A progressive web app for calculating semester and cumulative GPA (supports 5-point system)",
+      "url": null,
+      "status": "Private",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "name": "Security Research",
+      "description": "Real-world vulnerability reports submitted to multiple companies",
+      "url": null,
+      "status": "Private",
+      "image": "/placeholder.svg?height=300&width=400"
+    }
+  ],
+  "skills": {
+    "qa": [
+      {
+        "name": "Manual Testing",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Functional Testing",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Regression Testing",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "UAT",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "API Testing",
+        "icon": "/placeholder.svg?height=64&width=64"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Cypress",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Katalon",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "JMeter",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Postman",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Jira",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Git",
+        "icon": "/placeholder.svg?height=64&width=64"
+      }
+    ],
+    "programming": [
+      {
+        "name": "JavaScript",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Python",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Java",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Node.js",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "React",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Express.js",
+        "icon": "/placeholder.svg?height=64&width=64"
+      }
+    ],
+    "databases": [
+      {
+        "name": "SQL",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "MySQL",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "/placeholder.svg?height=64&width=64"
+      },
+      {
+        "name": "Supabase",
+        "icon": "/placeholder.svg?height=64&width=64"
+      }
+    ]
+  },
+  "certifications": [
+    {
+      "name": "Professional Scrum Master I (PSM I)",
+      "issuer": "Scrum.org",
+      "date": "Oct 2025",
+      "icon": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "name": "Scrum Fundamentals Certified (SFC™)",
+      "issuer": "SCRUMStudy",
+      "date": "Oct 2025",
+      "icon": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "name": "Foundation Professional (SFPC™)",
+      "issuer": "CertiProf",
+      "date": "Oct 2025",
+      "icon": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "name": "Oracle Cloud Infrastructure Foundations",
+      "issuer": "Oracle",
+      "date": "May 2025",
+      "icon": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "name": "SQL (Basic)",
+      "issuer": "HackerRank",
+      "date": "Aug 2024",
+      "icon": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "name": "Software Engineering: Implementation & Testing",
+      "issuer": "HKUST",
+      "date": "Jan 2024",
+      "hours": "19 hrs",
+      "icon": "/placeholder.svg?height=80&width=80"
+    }
+  ],
+  "volunteering": [
+    {
+      "organization": "Google Developer Student Club (PSAU)",
+      "role": "Project Manager",
+      "period": "Feb 2024 – Aug 2025"
+    },
+    {
+      "organization": "Software Engineering Club (PSAU)",
+      "role": "UI/UX Designer",
+      "period": "Apr 2022 – Mar 2024"
+    }
+  ],
+  "languages": ["Arabic", "English"],
+  "softSkills": [
+    "Attention to Detail",
+    "Problem Solving",
+    "Critical Thinking",
+    "Communication",
+    "Teamwork",
+    "Leadership",
+    "Time Management",
+    "Adaptability",
+    "Professionalism"
+  ]
+}
